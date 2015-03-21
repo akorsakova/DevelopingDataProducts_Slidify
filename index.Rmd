@@ -39,7 +39,7 @@ Author: Anna Korsakova Bain
 ## How do you choose a bank?
 > * Research shows that most people choose a bank based on location convenience, either to the branch or the ATM
 <br><br>
-> * Not many people take the time to look at how many consumers report issues about their bank. Below is the average monthly number of bank related complaints filed with the CFPB in 2014:
+> * Not many people take the time to look at how many consumers report issues about their bank. Below is the monthly average of bank related complaints filed with the CFPB in 2014:
 <br><br>
 
 ```{r, echo=FALSE}
@@ -57,7 +57,7 @@ Author: Anna Korsakova Bain
 
 --- .class #id 
 
-## How will this help me chose a bank?
+## How will this help me choose a bank?
 > * With anywhere between 1,100 and 1,300 complaints a month filed with the CFPB relating to banks, shouldn't we all be doing a little bit more research than the nearest ATM location?
 
 ```{r fig.width=8, fig.height=3}
